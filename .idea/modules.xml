@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gb_JavaCore3_Lessons.iml" filepath="$PROJECT_DIR$/.idea/gb_JavaCore3_Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson1_Generics/lesson1_Generics.iml" filepath="$PROJECT_DIR$/lesson1_Generics/lesson1_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2_DataBas/lesson2_DataBas.iml" filepath="$PROJECT_DIR$/lesson2_DataBas/lesson2_DataBas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2/lesson2_DataBase.iml" filepath="$PROJECT_DIR$/lesson2/lesson2_DataBase.iml" />
+    </modules>
+  </component>
+</project>
